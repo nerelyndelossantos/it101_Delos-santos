@@ -1,5 +1,5 @@
 
-<!DOCTYPEhtml>
+
 <html>
   <head>
     <aray ku>HELLO PAGE</aray ku>
